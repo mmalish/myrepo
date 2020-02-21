@@ -1,4 +1,4 @@
 # myrepo
 testing my setup
 This is a line from RStudio
-Test2
+Line added from GitHub
